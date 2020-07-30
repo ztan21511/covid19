@@ -2,8 +2,8 @@
 
 
 ## Introduction
-This application uses a realtime API to give accurate COVID-19 data according to a given input country.
-Technologies used: Chart.js, Material UI
+This application uses a realtime API to give accurate COVID-19 data visualizations according to a given input country.
+Technologies used: Chart.js, Material UI.
 
 API used: https://covid19.mathdro.id/api
 
